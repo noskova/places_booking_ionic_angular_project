@@ -1,0 +1,7 @@
+{
+  "name": "places_booking_ionic_angular_project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
